@@ -29,6 +29,10 @@ Plenty of resources can be found at [this link](https://aquarius31.github.io/ml/
 ## Further Works
 Further we may deploy the model on Google’s API or make an app that will automatically detect such images and will remove from your phone.
 
+## Communication
+
+Our chat channel is to be found on Gitter [here](https://gitter.im/dsciitpatna/NotesSeparator?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 ## Mentors
 * [Piyush Tiwary](https://github.com/aquarius31).
 * [Anubhav Jangra](https://github.com/love-san).
