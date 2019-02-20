@@ -5,6 +5,9 @@ Notes Seperator Project under Machine Leanring Department of **Developer Student
 Generally, during exams we take many images from notes of other people to study from. And once exams are over, it is a tedious job to find each of the images again and delete them one by one from our gallery.
 This is the very motivation for this project - To develop an algorithm that can classify a given image as "image from notes" and "image not from notes".
 
+## Impact
+This project will help students to automatically remove images of notes from there gallery automatically without the user looking for any particular image .
+
 ## Aim
 The aim of the project is to autonomously detect whether a given image taken from some notes or not. To achieve this, we will use **Convolutional Neural Networks** as our tool.
 We will be using different CNN architectures and choose the one with maximum accuracy parameters.
