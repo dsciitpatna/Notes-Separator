@@ -9,7 +9,7 @@ This is the very motivation for this project - To develop an algorithm that can 
 This project will help students to automatically remove images of notes from there gallery automatically without the user looking for any particular image .
 
 ## Aim
-The aim of the project is to autonomously detect whether a given image taken from some notes or not. To achieve this, we will use **Convolutional Neural Networks** as our tool.
+The aim of the project is to autonomously detect whether a given image is taken from some notes or not. To achieve this, we will use **Convolutional Neural Networks** as our tool.
 We will be using different CNN architectures and choose the one with maximum accuracy parameters.
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xUyot0A495vomnp-aAmH7OCrV9AFDQhcoEr2JTmVV0ASl-C7PA)    **Image not from notes**
@@ -37,7 +37,7 @@ Further we may deploy the model on Google’s API or make an app that will autom
 Our chat channel is to be found on Gitter [here](https://gitter.im/dsciitpatna/NotesSeparator?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 ## Mentors
-* [Piyush Tiwary](https://github.com/aquarius31).
+* [Piyush Tiwary](https://github.com/aquarius31) (**Project Lead**).
 * [Anubhav Jangra](https://github.com/love-san).
 * [Shreyash Gedkar](https://github.com/shreyash8).
 * [Rahul Grover](https://github.com/rahulgrover99).
