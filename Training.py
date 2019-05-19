@@ -114,7 +114,12 @@ class Model:
         images = [cv2.imread(path,1) for path in image_paths]
         
         # Convert to a numpy array and return it in the form of [num_images,size,size,channel]
-        #print(np.asarray(images[0]).shape)
+        #print(np.asarray(images[12]).shape)
+        '''
+        print('\n')
+        print(np.asarray(images).shape)
+        print('\n')
+        '''
         return np.asarray(images)
     
     def define_model(self):
@@ -195,9 +200,10 @@ class Model:
                                replace=False)
         
         # Use the random index to select random x and y-values.
+        #print(idx)
         x_batch = self.train_images[idx]
         y_batch = self.labels_train[idx]
-        
+        #print(x_batch.shape)
         return x_batch, y_batch
     
     def print_test_accuracy(self,sess):
@@ -259,12 +265,24 @@ class Model:
                 # x_batch now holds a batch of images and
                 # y_true_batch are the true labels for those images.
                 x_batch, y_true_batch = self.random_batch()
+                '''
+                print(x_batch)
+                print('\n')
+                print(x_batch.shape)
+                print(y_true_batch)
                 
+                print(x_batch.dtype)
+                print(x_batch.shape)
+                print(y_true_batch.dtype)
+                print(y_true_batch.shape)
+                '''
+                #x_batch = sess.run(x_batch)
+                #x_batch = tf.convert_to_tensor(x_batch)
                 feed_dict_train = {self.x: x_batch,
                                    self.y_true: y_true_batch}
                                    #self.keep_prob: 0.5,
                                    #self.keep_prob: 0.5}
-    
+                #assert all(x.shape == (128, 128) for x in x_batch)
                 sess.run([self.optimizer], feed_dict=feed_dict_train)
                 
                 # Print status every 100 iterations.
