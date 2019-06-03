@@ -1,5 +1,5 @@
 # Notes Seperator
-Notes Seperator Project under Machine Leanring and AI society of **Developer Students Club - IIT Patna**.
+Notes Seperator Project under Machine Learning and AI society of **Developer Students Club - IIT Patna**.
 
 ## Motivation
 Generally, during exams we take many images from notes of other people to study from. And once exams are over, it is a tedious job to find each of the images again and delete them one by one from our gallery.
