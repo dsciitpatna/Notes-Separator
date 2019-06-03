@@ -29,6 +29,9 @@ We will be using different CNN architectures and choose the one with maximum acc
 ## Resources
 Plenty of resources can be found at [this link](https://aquarius31.github.io/ml/).
 
+## Dataset
+The datset used for this model can be found [here](https://drive.google.com/folderview?id=1aM19cJwlfLTzQnE8y6K-gdKuWfCyf0YC). 
+
 ## Further Works
 Further we may deploy the model on Google’s API or make an app that will automatically detect such images and will remove from your phone.
 
