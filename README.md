@@ -33,7 +33,7 @@ Plenty of resources can be found at [this link](https://aquarius31.github.io/ml/
 The datset used for this model can be found [here](https://drive.google.com/folderview?id=1aM19cJwlfLTzQnE8y6K-gdKuWfCyf0YC). 
 
 ## Extracted-Data
-[here](https://drive.google.com/open?id=1cyuT9hAg5-doQADylY4-kCEMSZ7Rv1po)
+The extracted-data used for this model can be found [here](https://drive.google.com/open?id=1cyuT9hAg5-doQADylY4-kCEMSZ7Rv1po)
 
 ## Further Works
 Further we may deploy the model on Google’s API or make an app that will automatically detect such images and will remove from your phone.
