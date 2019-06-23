@@ -1,5 +1,4 @@
 #importing all the libraries that we'll require in the process
-
 import tensorflow as tf
 from tensorflow import keras
 import os
