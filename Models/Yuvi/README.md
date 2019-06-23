@@ -7,13 +7,18 @@ In a student's life notes are very useful during exam time .But after exams are 
 Dataset that is used to train the model can be found at [Dataset link](https://drive.google.com/open?id=1y-YYS6_XE_ClmshJPhKNIiixedT6Rnkn). The above dataset contains total of 1500 images (aprox.)
 
 850 notes images (aprox.).
+
 650 non-notes images (aprox).
+
 Size of each image is -->300X300, later reduced to 150x150.
 
 # Libraries used
 Tensorflow (high level keras api is used)
+
 numpy
+
 Matplotlib (for visualizing images and other plots)
+
 CV2 and OS
 
 # Model Inputs and features
@@ -26,6 +31,7 @@ Since dataset was small techniques like Data Agumentation had to be used.
 
 # Accuracy
 Test acc. 75%
+
 Training acc. 88.68%
 
 # Application
@@ -35,9 +41,14 @@ Note Seperator has a great role to play in a student's life, more into 'managing
 This project helped me to learn the following.
 
 CNN and DNN
+
 Agumentation technique
+
 Optimizers
+
 Using callbacks
+
 Use of PIL (python imaging library)
+
 
 Further details regarding the project can be found [here](https://staticjunkk.github.io/Note-Seperator/)
