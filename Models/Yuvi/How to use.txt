@@ -1,0 +1,9 @@
+How to use
+
+1 Set the paths to train, test and validation data at respective sites as indicated.
+
+2 There should be 2 sub-folders in each of the three (above mentioned) categories, namely 'notes' and 'non-notes'
+
+3 Import the required libraries before running the code.
+
+4 The model architecture and weights are saved in a different folder that can be found in Models/Yuvi. The link to the dataset can be found in the Models/Yuvi folder.
