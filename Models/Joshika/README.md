@@ -8,12 +8,12 @@ In a student's life notes are very useful during exam time, which are often foun
 
 ## Dataset
 
-Dataset that is used to train the model can be found in the dataset folder.
-The above dataset contains total of 1000 images (aprox.) 
+Dataset that is used to train the model can be found here <https://drive.google.com/folderview?id=1aM19cJwlfLTzQnE8y6K-gdKuWfCyf0YC>.
+The above dataset contains total of 900 images (aprox.) 
 1. 800 notes images (aprox.).
-2. 200 non-notes images (aprox).
+2. 100 non-notes images (aprox).
 
-Size of each image is 128*128
+Size of each image has to be resized to 128*128
 
 ---
 
