@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/aquarius31/Notes-Separator/model_complete"
+all_model_checkpoint_paths: "/home/aquarius31/Notes-Separator/model"
+all_model_checkpoint_paths: "/home/aquarius31/Notes-Separator/model_complete"
