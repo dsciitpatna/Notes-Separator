@@ -41,6 +41,6 @@ Our chat channel is to be found on Gitter [here](https://gitter.im/dsciitpatna/N
 
 ## Mentors
 * [Piyush Tiwary](https://github.com/aquarius31) (**Project Lead**).
-* [Anubhav Jangra](https://github.com/love-san).
+* [Anubhav Jangra](https://github.com/anubhav-jangra).
 * [Shreyash Gedkar](https://github.com/shreyash8).
 * [Rahul Grover](https://github.com/rahulgrover99).
